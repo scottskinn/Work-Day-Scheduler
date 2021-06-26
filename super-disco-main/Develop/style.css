@@ -66,6 +66,19 @@ textarea{
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 40px;
   transition: all .3s ease-in-out;
+  /* add just for fun */
+  cursor: wait;
+}
+
+#trash {
+  margin: 10px 0;
+}
+
+/* trying to get the breakpoint at to stack on top of each other  */
+@include media-breakpoint-up(xs) {
+  .container {
+    display: flex;
+  }
 }
