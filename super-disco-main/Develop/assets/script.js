@@ -27,31 +27,6 @@ $("#hour16 .description").val(localStorage.getItem("hour16"));
 $("#hour17 .description").val(localStorage.getItem("hour17"));
 
 
-// var h14 = document.getElementById("hour14")
-//     if (currentHour === h14) {
-//     h14.classList.add("present");
-//     }
-
-// // change the time block color based on hour
-// function hourTracker() {
-//     var currentHour = moment().format('H');
-    
-
-//     // for each time block run the following statment 
-//     $(".time-block").each(function() {
-//         var blockH = parseInt($(this).attr("id").split("hour")[1])
-
-//     if (blockH === currentHour) {
-//         $("#hour14").addClass("present");        
-//         $("#hour14").removeClass("future");
-//         $("#hour14").removeClass("past");
-
-//     }
-// }
-//     );
-//     // hourTracker();
-// };
-
 function hourTracker() {
     //get current number of hours.
     var currentHour = moment().hour();
