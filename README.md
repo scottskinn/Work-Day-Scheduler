@@ -1,13 +1,13 @@
 # Work Day Scheduler
 
-## Purpose
+## Purpose:
 A simple calendar application that allows a user to save events for each business hour of the day. 
 
 This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 Click on the text area to add your task for that hour. Then press the save button to the right.
 
-## Built With
+## Built With:
 * HTML
 * CSS
 * JAVASCRIPT
@@ -19,5 +19,5 @@ https://scottskinn.github.io/git-it-done/
 <img src = "super-disco-main\Develop\Images\Work-day-schedular.png" height=350px>
 
 
-## Contribution
+## Contribution:
 Made by: Scott Skinn 
