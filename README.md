@@ -15,6 +15,7 @@ Click on the text area to add your task for that hour. Then press the save butto
 ## Website:
 https://scottskinn.github.io/git-it-done/
 
+<img src = "super-disco-main\Develop\Images\Work-day-schedular.png">
 ![Work day schedular](super-disco-main\Develop\Images\Work-day-schedular.png)
 
 
