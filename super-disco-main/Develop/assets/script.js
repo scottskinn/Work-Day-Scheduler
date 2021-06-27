@@ -55,3 +55,35 @@ function hourTracker() {
     })
 }
 hourTracker();
+
+// Trying to make the textarea draggable to delete
+
+// this makes the ul elements sortable
+$("#draggable").sortable({
+    connectWith: $(".list")
+    
+  });
+
+//   $( function() {
+//     $( "#draggable" ).draggable({ cursor: "move", cursorAt: { top: 56, left: 56 } });
+//   });
+
+//   const draggable = document.querySelector("#draggable");
+
+//   draggable.addEventListener("dragstart", e =>{
+//       console.log(e)
+//   })
+
+$("#trash").droppable ({
+    accept: "#draggable",
+    tolerance: "touch",
+    drop: function(event, ui) {
+      console.log("drop");
+    },
+    over: function(event, ui) {
+      console.log("over");
+    },
+    out: function(event, ui) {
+      console.log("out");
+    }
+  })
