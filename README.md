@@ -13,13 +13,13 @@
 
 ## Description
 
-    A simple calendar application that allows a user to save events for each business hour of the day.
+A simple calendar application that allows a user to save events for each business hour of the day.
 
-    This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-    Click on the text area to add your task for that hour. Then press the save button to the right.
+Click on the text area to add your task for that hour. Then press the save button to the right.
 
-    Each time block is color-coded to indicate whether it is in the past(gray), present(red), or future(green).
+Each time block is color-coded to indicate whether it is in the past(gray), present(red), or future(green).
 
 ## Website
 
