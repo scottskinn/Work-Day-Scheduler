@@ -1,6 +1,6 @@
 
 
-# Shop-Online
+# Work Day Scheduler
 
 # Table of Contents
 
