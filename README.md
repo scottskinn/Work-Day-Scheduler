@@ -21,6 +21,10 @@
 
     Each time block is color-coded to indicate whether it is in the past(gray), present(red), or future(green).
 
+## Website
+
+    https://scottskinn.github.io/Work-Day-Scheduler/
+
 ## Installation
 
     Clone the repository from github, then from the terminal run *npm install* 
@@ -42,4 +46,3 @@
 [scottskinn](https://github.com/scottskinn/).
 
 [scottskinn2n@gmail.com](mailto:scottskinn2n@gmail.com)
-
