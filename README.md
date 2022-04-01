@@ -23,7 +23,7 @@ Each time block is color-coded to indicate whether it is in the past(gray), pres
 
 ## Website
 
-    https://scottskinn.github.io/Work-Day-Scheduler/
+https://scottskinn.github.io/Work-Day-Scheduler/
 
 ## Installation
 
@@ -31,7 +31,7 @@ Each time block is color-coded to indicate whether it is in the past(gray), pres
 
 ## Usage
 
-    pics
+![screenshot](./Develop/Images/Screenshot.jpg)
 
 ## Contributing
 
