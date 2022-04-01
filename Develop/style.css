@@ -2,6 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: rgb(209, 212, 180);
 }
 
 textarea{
@@ -19,6 +20,11 @@ textarea{
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  background: url("/Develop/Images/jessica-lewis-fJXv46LT7Xk-unsplash.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  opacity: 0.6;
 }
 
 .description{
@@ -39,7 +45,9 @@ textarea{
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;  
+  border-top: 1px dashed #000000;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 
 .past {
