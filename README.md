@@ -17,10 +17,6 @@ A simple calendar application that allows a user to save events for each busines
 
 This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-Click on the text area to add your task for that hour. Then press the save button to the right.
-
-Each time block is color-coded to indicate whether it is in the past(gray), present(red), or future(green).
-
 ## Website
 
 https://scottskinn.github.io/Work-Day-Scheduler/
@@ -30,6 +26,10 @@ https://scottskinn.github.io/Work-Day-Scheduler/
     Clone the repository from github, then from the terminal run *npm install* 
 
 ## Usage
+
+Click on the text area to add your task for that hour. Then press the save button to the right.
+
+Each time block is color-coded to indicate whether it is in the past(gray), present(red), or future(green).
 
 ![screenshot](./Develop/Images/Screenshot.jpg)
 
