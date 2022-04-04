@@ -20,7 +20,7 @@ textarea{
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
-  background: url("/Develop/Images/jessica-lewis-fJXv46LT7Xk-unsplash.jpg");
+  background: url("../Develop/Images/jessica-lewis-fJXv46LT7Xk-unsplash.jpg");
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;

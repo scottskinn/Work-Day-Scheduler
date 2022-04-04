@@ -1,8 +1,6 @@
-
-
 # Work Day Scheduler
 
-# Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
@@ -19,7 +17,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## Website
 
-https://scottskinn.github.io/Work-Day-Scheduler/
+<https://scottskinn.github.io/Work-Day-Scheduler/>
 
 ## Installation
 
